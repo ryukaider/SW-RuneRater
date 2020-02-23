@@ -1,8 +1,0 @@
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\bin\Debug\SW-RuneRater.exe.config
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\bin\Debug\SW-RuneRater.exe
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\bin\Debug\SW-RuneRater.pdb
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\obj\Debug\SW-RuneRater.exe
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\obj\Debug\SW-RuneRater.pdb
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\bin\Debug\Newtonsoft.Json.dll
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\bin\Debug\Newtonsoft.Json.xml
-E:\Scott\dev\VisualStudio\SW-RuneRater\SW-RuneRater\obj\Debug\SW-RuneRater.csprojResolveAssemblyReference.cache
